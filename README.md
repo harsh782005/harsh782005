@@ -98,9 +98,6 @@
 
 <details><summary><h3>🏆 GitHub Trophies</h3></summary>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsh782005&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
 
 </details>
 
