@@ -123,25 +123,19 @@
   <a href="https://github.com/harsh782005/DonorApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh782005&repo=DonorApp&theme=tokyonight" alt="Donor App"/>
   </a>
-  <a href="https://github.com/harsh782005/KotlinBasics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh782005&repo=KotlinBasics&theme=tokyonight" alt="Kotlin Basics"/>
+  <a href="https://github.com/harsh782005/Java_Database_connectivity">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh782005&repo=Java_Database_connectivity&theme=tokyonight" alt="Java Database Connectivity"/>
   </a>
-  <a href="https://github.com/harsh782005/Animated_Login">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh782005&repo=Animated_Login&theme=tokyonight" alt="Animated Login"/>
+  <a href="https://github.com/harsh782005/Random-Class">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh782005&repo=Random-Class&theme=tokyonight" alt="Random Class"/>
   </a>
-  <a href="https://github.com/harsh782005/Login_Shared_Preference">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh782005&repo=Login_Shared_Preference&theme=tokyonight" alt="Login Shared Preference"/>
+  <a href="https://github.com/harsh782005/Digital-Watch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh782005&repo=Digital-Watch&theme=tokyonight" alt="Digital Watch"/>
   </a>
-  <a href="https://github.com/harsh782005/MyGroceryApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh782005&repo=MyGroceryApp&theme=tokyonight" alt="My Grocery App"/>
-  </a>
-  <a href="https://github.com/harsh782005/FragmentBottomNavBar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh782005&repo=FragmentBottomNavBar&theme=tokyonight" alt="Fragment Bottom NavBar"/>
-  </a>
-  <a href="https://github.com/harsh782005/FragmentBasics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh782005&repo=FragmentBasics&theme=tokyonight" alt="Fragment Basics"/>
+  <a href="https://github.com/harsh782005/LuckyDraw-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh782005&repo=LuckyDraw-Game&theme=tokyonight" alt="LuckyDraw Game"/>
   </a>
 </p>
 
 </details>
----
+
