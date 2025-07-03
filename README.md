@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **harsh782005/harsh782005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,7 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: harshdeepkaur453@gmail.com
 - 😄 Pronouns: her
 
--->
+
+## Hi there 👋
+
 <h1 align="center">Hi , I'm Harshdeep Kaur <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -111,6 +113,39 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh782005&theme=github" alt="GitHub Contribution Graph"/>
+</p>
+
+</details>
+
+---
+
+<details><summary><h3>📂 My Repositories</h3></summary>
+
+<p align="center">
+  <a href="https://github.com/harsh782005/Style_Seeker_boutique">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh782005&repo=Style_Seeker_boutique&theme=tokyonight" alt="Style Seeker Boutique"/>
+  </a>
+  <a href="https://github.com/harsh782005/DonorApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh782005&repo=DonorApp&theme=tokyonight" alt="Donor App"/>
+  </a>
+  <a href="https://github.com/harsh782005/KotlinBasics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh782005&repo=KotlinBasics&theme=tokyonight" alt="Kotlin Basics"/>
+  </a>
+  <a href="https://github.com/harsh782005/Animated_Login">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh782005&repo=Animated_Login&theme=tokyonight" alt="Animated Login"/>
+  </a>
+  <a href="https://github.com/harsh782005/Login_Shared_Preference">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh782005&repo=Login_Shared_Preference&theme=tokyonight" alt="Login Shared Preference"/>
+  </a>
+  <a href="https://github.com/harsh782005/MyGroceryApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh782005&repo=MyGroceryApp&theme=tokyonight" alt="My Grocery App"/>
+  </a>
+  <a href="https://github.com/harsh782005/FragmentBottomNavBar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh782005&repo=FragmentBottomNavBar&theme=tokyonight" alt="Fragment Bottom NavBar"/>
+  </a>
+  <a href="https://github.com/harsh782005/FragmentBasics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh782005&repo=FragmentBasics&theme=tokyonight" alt="Fragment Basics"/>
+  </a>
 </p>
 
 </details>
