@@ -58,6 +58,9 @@
   <a href="#"><img alt="Room DB" src="https://img.shields.io/badge/RoomDB-%23D4AA00.svg?style=plastic&logo=sqlite&logoColor=white"></a>
   <a href="#"><img alt="OOP" src="https://img.shields.io/badge/OOPs-%23FF5733.svg?style=plastic&logo=code&logoColor=white"></a>
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh782005&theme=tokyonight_duo" alt="GitHub Streak"/>
+</p>
 
 ---
 
